@@ -1,1 +1,1 @@
-# diceRollingSimulator
+# Dice Rolling Simulator in Python
